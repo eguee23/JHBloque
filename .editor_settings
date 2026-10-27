@@ -1,0 +1,30 @@
+{
+  :code {
+    :breakpoints [
+    ]
+  }
+  :scene {
+    :resource-settings {
+    }
+  }
+  :workflow {
+    :open-tabs [
+      [
+        [
+          "/game.project"
+          :form
+        ]
+      ]
+    ]
+    :recent-files [
+      [
+        "/game.project"
+        :form
+      ]
+      [
+        "/.gitignore"
+        :code
+      ]
+    ]
+  }
+}
